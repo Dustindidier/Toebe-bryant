@@ -3,6 +3,13 @@
 ## Stage
 Pre-launch; GitHub-based Codex knowledge base initialized.
 
+## Current production — 2026-11-11
+- Completed local 20-second review MP4 outside repository; technical decode and sampled visual checks passed. H.264/AAC, 720x1280, 30fps, approximately 3.7 MB. Original synthesized soundtrack, no dialogue. Ready for user creative/listening review, not approved for posting.
+- Latest intake: 81/99 expected JPEGs retrieved at bef42cc, zero file-verification failures. All 81 viewed on contact sheet; selected four viewed larger.
+- User requested an actual sports-style highlight reel with edited authentic photos. Local 20-second vertical review cut rendering; plan/provenance in logs/VIDEO_CUT_V1.md. Higgsfield tools still absent, login unverified. No paid service used.
+- Soundtrack is original local synthesized percussion/pulse; no announcer voice selected or generated. No publication performed. Original source photos unchanged; rendered media kept outside repository.
+- Next three: inspect rendered visual/audio quality; get user feedback on draft; audition approved voice candidates when access is available. Prior intake counts below are historical.
+
 ## Latest user direction — photo intake
 - First poster generation completed through the available image tool, not Higgsfield. Output outside repository; visible text and five-toe depiction reviewed. Exact anatomy consistency and user approval remain pending. Prior pending-generation statements below are historical.
 - Intake advanced to 28 JPEG images. Reviewed all 28 on a contact sheet and several at full resolution; full clearance still pending. Provisional poster candidate IMG_5591; no final selection approved.

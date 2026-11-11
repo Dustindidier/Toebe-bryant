@@ -25,6 +25,10 @@
 ## Rule
 Log date, status, rationale, superseded choices and affected files for every approved/rejected change.
 
+## 2026-11-11 — APPROVED production request
+- User requested latest GitHub photos be fetched and an actual highlight/promo video be produced using authentic foot photos with dramatic basketball pregame-introduction energy.
+- This authorizes creating a review draft, not final creative approval, spending, announcer casting or publication. Local cut details in logs/VIDEO_CUT_V1.md.
+
 ## 2026-11-11 — APPROVED limited photo intake exception
 - User explicitly permits the specified 99 starter photos to be public in this repository temporarily and requests local retrieval as uploads land. This supersedes the earlier repository-media prohibition for these 99 photos only; it does not authorize additional sensitive media or personal information.
 - User prioritizes initial X/FeetFinder promo preparation, then an original basketball-parody reveal using authentic foot/toe images, script and audio development, with potential toe announcer characters.
