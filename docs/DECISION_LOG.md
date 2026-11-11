@@ -1,0 +1,26 @@
+# Decision Log
+
+## 2026-11-11 — APPROVED / reported by user
+- Toebe Bryant brand: anonymous/faceless adult male foot-content creator with basketball-superstar parody.
+- Confident, funny, slightly seductive; all fans welcome.
+- Natural feet and ordinary/questionable socks; no false pedicure claims.
+- X and FeetFinder launch; final public FeetFinder handle unconfirmed.
+- Working bios and FeetFinder character limits documented in BRAND_BIBLE.md.
+- Rejected “Ten toes. One questionable career decision.”
+- Cinematic basketball intro with announcers and optional guest-toe visuals.
+- Real NBA announcers are examples of performance, not approved voice cloning.
+- Prior Higgsfield voice guesses rejected as “way off”; user wants actual picker and personal audition.
+- User will provide real photos and follow producer instructions.
+- Codex should preserve project knowledge, manage prompts/plugins/MCPs.
+
+## 2026-11-11 — APPROVED distribution
+- User explicitly authorized uploading the project Markdown kit to public GitHub repository Dustindidier/Toebe-bryant.
+- Public authorization covers these non-sensitive planning files only, NOT actual photos, private details or account secrets.
+
+## PROPOSED, NOT APPROVED
+- Specific photo order IMG_5498, IMG_5502, IMG_5591, IMG_5580.
+- Pricing, bundles, seven-day schedule, final video script and announcer names.
+- Guest-toe visuals and 45–55-second edit.
+
+## Rule
+Log date, status, rationale, superseded choices and affected files for every approved/rejected change.
