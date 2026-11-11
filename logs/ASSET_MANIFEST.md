@@ -15,6 +15,9 @@
 Do not add public raw media, identifying filenames, EXIF, secret URLs or personal data.
 
 ## 2026-11-11 inventory verification
+- Stop-motion promo v2 completion: 19 seconds, 720x1280 H.264/AAC, original synthesized audio, supplied photos only. Decode and corrected crop checks passed. READY FOR USER REVIEW; outside repository; final privacy/listening/creative approval pending.
+- Stop-motion promo v2: local FFmpeg motion edit, actual supplied photo sequence, original cosmic title graphics and original synthesized audio; rendering at this update. Outside repository; final review pending. No voices or new toe character assets.
+- Space Jam intro reference: public YouTube link recorded in REFERENCE_AND_V2.md; user-specified inspiration, retrieval blocked, content unverified. No third-party media copied.
 - Arena debut promo v1 completed: 20-second local MP4, authentic selected photo sequence, original synthesized soundtrack. Technical decode and sampled frame review passed; no visible face/hand/logo in selected shots. Source EXIF excluded. READY FOR USER REVIEW; no publication approval or complete anonymity certification. Output remains outside repository.
 - Latest intake: 81 JPEG images at bef42cc; all pass file verification, contact-sheet review completed. Four photos chosen for local video review cut (see VIDEO_CUT_V1.md). No final promo/photo selection approval.
 - Arena debut promo v1: original local FFmpeg motion edit of user photos, original synthesized sound design, no announcer voice, IN PRODUCTION at this update. Output outside public repository. Source metadata excluded; final export review pending.

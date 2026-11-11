@@ -25,6 +25,10 @@
 ## Rule
 Log date, status, rationale, superseded choices and affected files for every approved/rejected change.
 
+## 2026-11-11 — APPROVED reference and revision request
+- User requested faster time-lapse-style sock removal using actual supplied photos and identified the linked Space Jam introduction as inspiration for audio, visuals and announcer prompts (logs/REFERENCE_AND_V2.md).
+- This is reference direction, not final script/casting approval or permission to reuse third-party footage/audio. Direct viewing failed due to proxy CONNECT 403; clip content unverified.
+
 ## 2026-11-11 — APPROVED production request
 - User requested latest GitHub photos be fetched and an actual highlight/promo video be produced using authentic foot photos with dramatic basketball pregame-introduction energy.
 - This authorizes creating a review draft, not final creative approval, spending, announcer casting or publication. Local cut details in logs/VIDEO_CUT_V1.md.

@@ -4,6 +4,9 @@
 Pre-launch; GitHub-based Codex knowledge base initialized.
 
 ## Current production — 2026-11-11
+- v2 completed outside repository: 19-second vertical MP4, approximately 4.8 MB, full decode passed. Revised stop-motion crop inspected to retain foot silhouette. Ready for user review; no voices chosen and no posting. Details in REFERENCE_AND_V2.md. Rendering notes below are historical.
+- v2 local review cut rendering: 12-photo sock-removal stop-motion, real photo reveal and original cosmic title graphics. Camera angles vary; no continuous removal footage invented. Voices still pending user selection.
+- User supplied a specific Space Jam YouTube intro reference. Retrieval blocked by proxy CONNECT 403; not watched/heard. Saved reference and original prompt/announcer direction in logs/REFERENCE_AND_V2.md. No Higgsfield tools available or paid job run.
 - Completed local 20-second review MP4 outside repository; technical decode and sampled visual checks passed. H.264/AAC, 720x1280, 30fps, approximately 3.7 MB. Original synthesized soundtrack, no dialogue. Ready for user creative/listening review, not approved for posting.
 - Latest intake: 81/99 expected JPEGs retrieved at bef42cc, zero file-verification failures. All 81 viewed on contact sheet; selected four viewed larger.
 - User requested an actual sports-style highlight reel with edited authentic photos. Local 20-second vertical review cut rendering; plan/provenance in logs/VIDEO_CUT_V1.md. Higgsfield tools still absent, login unverified. No paid service used.
