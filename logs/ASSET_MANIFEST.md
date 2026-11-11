@@ -15,5 +15,6 @@
 Do not add public raw media, identifying filenames, EXIF, secret URLs or personal data.
 
 ## 2026-11-11 inventory verification
+- Intake update: 13 JPEG files pulled from main at `626613b`; all 13 pass Pillow file verification. One image visually inspected; full visual, privacy and metadata review pending. No final promo selection approved. These are part of the user's explicitly authorized 99-photo repository exception.
 - No authentic photos, prior graphics or finished audio/video were supplied or inspected this session. Historical rows remain unverified references.
 - Producer briefing: `logs/PRODUCER_BRIEFING.md`; session-authored planning text, PROPOSED creative recommendations, reviewed for sensitive content; no private media included.

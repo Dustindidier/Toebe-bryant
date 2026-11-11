@@ -4,6 +4,7 @@
 Pre-launch; GitHub-based Codex knowledge base initialized.
 
 ## Latest user direction — photo intake
+- Latest verified intake: 13 of expected 99 JPEG images pulled locally from main at `626613b`; file verification passed for all 13. One visually inspected; full review pending. Remaining expected count: 86. Earlier zero-file checks below are historical.
 - User authorized a limited exception for 99 starter photos to be uploaded publicly and retrieved locally. Do not extend this permission to other media or personal data.
 - First remote check: zero image files committed to main; upload not yet available. No photos inspected. GitHub web uploads are not visible to Git until committed.
 - Next: retrieve and verify all 99, inspect actual content, propose initial promo selection; develop original reveal script/audio/scene plan with authentic images and potential toe announcers. No external media transfer or publication approved.
