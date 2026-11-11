@@ -25,6 +25,11 @@
 ## Rule
 Log date, status, rationale, superseded choices and affected files for every approved/rejected change.
 
+## 2026-11-11 — APPROVED limited photo intake exception
+- User explicitly permits the specified 99 starter photos to be public in this repository temporarily and requests local retrieval as uploads land. This supersedes the earlier repository-media prohibition for these 99 photos only; it does not authorize additional sensitive media or personal information.
+- User prioritizes initial X/FeetFinder promo preparation, then an original basketball-parody reveal using authentic foot/toe images, script and audio development, with potential toe announcer characters.
+- External processing, final casting, generation spending and publication remain subject to explicit approval. No finished script or audio approved.
+
 ## 2026-11-11 — APPROVED continuity instructions reaffirmed
 - User designated this repository as the persistent production knowledge base and authorized committing approved non-sensitive documentation updates.
 - Approved decisions remain authoritative unless explicitly changed by the user; proposals remain proposals.

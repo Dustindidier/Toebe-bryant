@@ -3,6 +3,11 @@
 ## Stage
 Pre-launch; GitHub-based Codex knowledge base initialized.
 
+## Latest user direction — photo intake
+- User authorized a limited exception for 99 starter photos to be uploaded publicly and retrieved locally. Do not extend this permission to other media or personal data.
+- First remote check: zero image files committed to main; upload not yet available. No photos inspected. GitHub web uploads are not visible to Git until committed.
+- Next: retrieve and verify all 99, inspect actual content, propose initial promo selection; develop original reveal script/audio/scene plan with authentic images and potential toe announcers. No external media transfer or publication approved.
+
 ## Completed
 - Approved brand premise, personality, working bios and platform direction documented.
 - Photo shortlist and launch pricing captured as proposals, not approvals.
