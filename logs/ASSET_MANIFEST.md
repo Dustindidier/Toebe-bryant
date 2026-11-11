@@ -15,6 +15,10 @@
 Do not add public raw media, identifying filenames, EXIF, secret URLs or personal data.
 
 ## 2026-11-11 inventory verification
+- Tiptoe meme v1 completed: 12-second local MP4, 720x1280, approximately 1.13 MB. Decode and sample-frame review passed. READY FOR USER REVIEW; motion and fidelity limitations in TIPTOE_MEME.md. No media committed or posted.
+- Tiptoe reference MP4: user-supplied, 21.525 seconds, inspected via sampled frames; stored outside repository. Associated jersey-wearing foot image supplied in chat.
+- Toebe meme character: generated interpretation based on user image, transparent PNG; altered details, not an exact cutout. Outside repository; fidelity approval pending.
+- Tiptoe meme v1: local 12-second composite animation rendering, original graphic stage, user-supplied reference audio excerpt; no new voice synthesis or film visuals. Outside repository, user review and publication/audio clearance pending.
 - Stop-motion promo v2 completion: 19 seconds, 720x1280 H.264/AAC, original synthesized audio, supplied photos only. Decode and corrected crop checks passed. READY FOR USER REVIEW; outside repository; final privacy/listening/creative approval pending.
 - Stop-motion promo v2: local FFmpeg motion edit, actual supplied photo sequence, original cosmic title graphics and original synthesized audio; rendering at this update. Outside repository; final review pending. No voices or new toe character assets.
 - Space Jam intro reference: public YouTube link recorded in REFERENCE_AND_V2.md; user-specified inspiration, retrieval blocked, content unverified. No third-party media copied.

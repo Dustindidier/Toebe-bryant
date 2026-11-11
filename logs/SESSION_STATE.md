@@ -4,6 +4,8 @@
 Pre-launch; GitHub-based Codex knowledge base initialized.
 
 ## Current production — 2026-11-11
+- Tiptoe meme v1 completed outside repository: 12-second 720x1280 H.264/AAC, approximately 1.13 MB. Full decode and sampled visual checks passed. Limited motion composite with generated character interpretation and supplied reference audio. Ready for user review; exact anatomy, full choreography and final audio clearance not established.
+- Latest task: Toebe tiptoe meme using uploaded reference MP4 and jersey-on-big-toe image. Reference downloaded and visual samples inspected. Image tool produced a generated character interpretation (not exact-photo fidelity); user informed. Local 12-second composite animation rendering with uploaded reference audio excerpt, no film visuals or new voice casting. Details and actual-video-tool prompt in TIPTOE_MEME.md. No publishing.
 - v2 completed outside repository: 19-second vertical MP4, approximately 4.8 MB, full decode passed. Revised stop-motion crop inspected to retain foot silhouette. Ready for user review; no voices chosen and no posting. Details in REFERENCE_AND_V2.md. Rendering notes below are historical.
 - v2 local review cut rendering: 12-photo sock-removal stop-motion, real photo reveal and original cosmic title graphics. Camera angles vary; no continuous removal footage invented. Voices still pending user selection.
 - User supplied a specific Space Jam YouTube intro reference. Retrieval blocked by proxy CONNECT 403; not watched/heard. Saved reference and original prompt/announcer direction in logs/REFERENCE_AND_V2.md. No Higgsfield tools available or paid job run.

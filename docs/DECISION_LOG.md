@@ -25,6 +25,10 @@
 ## Rule
 Log date, status, rationale, superseded choices and affected files for every approved/rejected change.
 
+## 2026-11-11 — APPROVED tiptoe meme production request
+- User supplied an MP4 and jersey-wearing Toebe character image, requesting a tiptoe-meme recreation using Toebe Bryant.
+- This authorizes a review draft and character-motion adaptation; no final output, soundtrack clearance, paid generation, voice casting or publication approval inferred. See logs/TIPTOE_MEME.md.
+
 ## 2026-11-11 — APPROVED reference and revision request
 - User requested faster time-lapse-style sock removal using actual supplied photos and identified the linked Space Jam introduction as inspiration for audio, visuals and announcer prompts (logs/REFERENCE_AND_V2.md).
 - This is reference direction, not final script/casting approval or permission to reuse third-party footage/audio. Direct viewing failed due to proxy CONNECT 403; clip content unverified.
