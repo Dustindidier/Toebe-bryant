@@ -15,6 +15,7 @@
 Do not add public raw media, identifying filenames, EXIF, secret URLs or personal data.
 
 ## 2026-11-11 inventory verification
+- Poster result update: image-generation tool completed one arena poster example from IMG_5591. Generated file remains outside repository. Visible title/tagline and five-toe depiction checked; this is a generated interpretation, exact anatomical fidelity is not established. User review/approval required; no publication performed.
 - Later intake: 28 JPEG files local; contact-sheet review completed. IMG_5591 provisionally selected for an original sports poster example. Final image/privacy/metadata review pending. No final promo selection approved.
 - Tonight promo kit: `logs/TONIGHT_PROMO_DRAFT.md`, original session-authored planning/copy, PROPOSED, no private details or media embedded.
 - First poster example: available image tool, authentic photo reference, generation requested; result pending at this update. No Higgsfield job exists. Anatomy and privacy review required before any publication.

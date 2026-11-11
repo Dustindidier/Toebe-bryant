@@ -4,6 +4,7 @@
 Pre-launch; GitHub-based Codex knowledge base initialized.
 
 ## Latest user direction — photo intake
+- First poster generation completed through the available image tool, not Higgsfield. Output outside repository; visible text and five-toe depiction reviewed. Exact anatomy consistency and user approval remain pending. Prior pending-generation statements below are historical.
 - Intake advanced to 28 JPEG images. Reviewed all 28 on a contact sheet and several at full resolution; full clearance still pending. Provisional poster candidate IMG_5591; no final selection approved.
 - User requests content examples for tonight and Higgsfield access verification. No Higgsfield tools exposed even after explicit plugin tag; login, permissions and credits unverified. Do not claim connected.
 - First sports parody poster requested through available image-generation tool using authentic photo reference; result pending at this log update. Caption and scene drafts in `logs/TONIGHT_PROMO_DRAFT.md`. No publishing or paid Higgsfield jobs performed.
