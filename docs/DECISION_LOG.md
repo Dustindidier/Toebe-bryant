@@ -24,3 +24,8 @@
 
 ## Rule
 Log date, status, rationale, superseded choices and affected files for every approved/rejected change.
+
+## 2026-11-11 — APPROVED continuity instructions reaffirmed
+- User designated this repository as the persistent production knowledge base and authorized committing approved non-sensitive documentation updates.
+- Approved decisions remain authoritative unless explicitly changed by the user; proposals remain proposals.
+- No announcer casting, publication, spending, private-media sharing or irreversible account changes approved in this session.

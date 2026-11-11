@@ -24,3 +24,13 @@ Pre-launch; GitHub-based Codex knowledge base initialized.
 
 ## Pending approvals
 No public post, paid generation, photo upload or external account changes are authorized by these files.
+
+## Repository intake — 2026-11-11
+- Read main branch: README, AGENTS, START_HERE_PROMPT, all Markdown under docs/, logs/ and templates/.
+- Created `logs/PRODUCER_BRIEFING.md` with conditional launch checklist, audition plan, photo review workflow and draft copy. Creative proposals are not approvals.
+- Confirmed remote main readable; Git push dry run succeeded. GitHub CLI credential check failed; Git transport and CLI authentication differ. No GitHub plugin tools are callable, so account/admin scope is unverified.
+- Image-generation tool callable; no generation run and costs/quotas unverified. Local FFmpeg, FFprobe, ImageMagick and Chromium installed. No callable Higgsfield, X, FeetFinder, voice or video-generation integrations.
+- Shared desktop advertised enabled with state unknown; desktop control tool absent. No Higgsfield login, voice catalog, price or platform rules verified.
+- Additional brainstorming conversation referenced by user but unread: no read_thread tool available. Do not infer its contents; request relevant text without personal details.
+- Next three actions: approve cinematic paper edit and audition criteria; privately review authorized authentic footage; verify actual voices, tool costs and launch platform requirements.
+- Recommended next action: review the proposed reveal structure in the briefing, then audition actual voices with user selection. No guessed casting.
