@@ -4,6 +4,9 @@
 Pre-launch; GitHub-based Codex knowledge base initialized.
 
 ## Latest user direction — photo intake
+- Intake advanced to 28 JPEG images. Reviewed all 28 on a contact sheet and several at full resolution; full clearance still pending. Provisional poster candidate IMG_5591; no final selection approved.
+- User requests content examples for tonight and Higgsfield access verification. No Higgsfield tools exposed even after explicit plugin tag; login, permissions and credits unverified. Do not claim connected.
+- First sports parody poster requested through available image-generation tool using authentic photo reference; result pending at this log update. Caption and scene drafts in `logs/TONIGHT_PROMO_DRAFT.md`. No publishing or paid Higgsfield jobs performed.
 - Latest verified intake: 13 of expected 99 JPEG images pulled locally from main at `626613b`; file verification passed for all 13. One visually inspected; full review pending. Remaining expected count: 86. Earlier zero-file checks below are historical.
 - User authorized a limited exception for 99 starter photos to be uploaded publicly and retrieved locally. Do not extend this permission to other media or personal data.
 - First remote check: zero image files committed to main; upload not yet available. No photos inspected. GitHub web uploads are not visible to Git until committed.
