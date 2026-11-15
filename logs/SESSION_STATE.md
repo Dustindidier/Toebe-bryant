@@ -3,6 +3,12 @@
 ## Stage
 Pre-launch; GitHub-based Codex knowledge base initialized.
 
+## Latest handoff — 2026-11-15
+- User requests continued work through Grok/Cursor/bots, with ChatGPT as intermediary. Full entry point: docs/PORTABLE_AGENT_KICKOFF.md; setup: docs/AGENT_SETUP.md. Includes a Cursor rule, project-local skill source and job/chat-bridge templates. No integrations installed or account changes made.
+- Re-read current main. Newer HIGGSFIELD_DEBUT_V4_2026-11-11.md reports a completed 41-second private-library review cut with provisional voices authorized for that review. Treat this as reported editorial base, retrieve/inspect actual export before revision. Older statements of no Higgsfield access are historical; no Higgsfield tools exposed in current host, so present access remains unverified.
+- Checkout still has 81 JPEGs; do not infer all expected 99 arrived. Existing local older exports are not the private V4 export.
+- Next three: open repo in destination host/read kickoff; audit actual tools/credits and retrieve V4 privately; inspect editorial base and propose short identity-preserving motion test. Final casting, new spend and publishing remain subject to user approval.
+
 ## Current production — 2026-11-11
 - Tiptoe meme v1 completed outside repository: 12-second 720x1280 H.264/AAC, approximately 1.13 MB. Full decode and sampled visual checks passed. Limited motion composite with generated character interpretation and supplied reference audio. Ready for user review; exact anatomy, full choreography and final audio clearance not established.
 - Latest task: Toebe tiptoe meme using uploaded reference MP4 and jersey-on-big-toe image. Reference downloaded and visual samples inspected. Image tool produced a generated character interpretation (not exact-photo fidelity); user informed. Local 12-second composite animation rendering with uploaded reference audio excerpt, no film visuals or new voice casting. Details and actual-video-tool prompt in TIPTOE_MEME.md. No publishing.

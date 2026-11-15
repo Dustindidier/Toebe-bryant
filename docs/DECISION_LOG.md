@@ -25,6 +25,10 @@
 ## Rule
 Log date, status, rationale, superseded choices and affected files for every approved/rejected change.
 
+## 2026-11-15 — APPROVED cross-agent handoff request
+- User will continue with Grok, Cursor credits and bots while retaining ChatGPT as an intermediary; requested a full initial prompt, Markdown workflow, MCP/plugin/skill setup instructions.
+- Created portable kickoff, setup guide, Cursor rule, project skill source and handoff/job templates. Creation does not install integrations, transfer credentials/credits, approve paid execution or authorize posting.
+
 ## 2026-11-11 — APPROVED tiptoe meme production request
 - User supplied an MP4 and jersey-wearing Toebe character image, requesting a tiptoe-meme recreation using Toebe Bryant.
 - This authorizes a review draft and character-motion adaptation; no final output, soundtrack clearance, paid generation, voice casting or publication approval inferred. See logs/TIPTOE_MEME.md.

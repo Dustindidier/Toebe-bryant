@@ -1,0 +1,6 @@
+---
+description: Shared Toebe Bryant production instructions and continuity
+alwaysApply: true
+---
+
+Read and follow AGENTS.md and docs/DECISION_LOG.md before production work. Read docs/PORTABLE_AGENT_KICKOFF.md for migration/startup, docs/AGENT_SETUP.md for tool discovery, and logs/SESSION_STATE.md plus logs/ASSET_MANIFEST.md for continuity. Do not duplicate or override these sources with guessed project state. New user directions take precedence over earlier approved decisions; preserve explicit approval scope. Public repo: no new private media, credentials or identifying data. Treat existing 99-photo exception as limited. Discover actual integrations, costs and current access; do not assume plugin tags enable tools. Preserve source media and versioned outputs. Publishing, paid jobs and final casting require the relevant user approval. Return a sanitized handoff using templates/CHATGPT_BRIDGE.md.

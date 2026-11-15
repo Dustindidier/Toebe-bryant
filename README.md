@@ -10,6 +10,11 @@ This is a persistent, local-first Markdown knowledge base for an anonymous baske
 5. Have Codex update `docs/DECISION_LOG.md`, `logs/SESSION_STATE.md`, and `logs/ASSET_MANIFEST.md` after every meaningful session.
 
 ## File map
+- `docs/PORTABLE_AGENT_KICKOFF.md`: full Grok/Cursor/bot kickoff prompt.
+- `docs/AGENT_SETUP.md`: tool/MCP setup, entitlement checks and agent coordination.
+- `.cursor/rules/toebe-project.mdc`: Cursor adapter to shared instructions.
+- `skills/toebe-production/SKILL.md`: project-local production skill source (registration is host-dependent).
+- `templates/CHATGPT_BRIDGE.md` and `templates/GENERATION_JOB.md`: cross-agent handoff and job evidence.
 - `AGENTS.md`: mandatory instructions for Codex agents.
 - `START_HERE_PROMPT.md`: master kickoff prompt.
 - `docs/BRAND_BIBLE.md`: persona, approved copy, constraints.

@@ -32,3 +32,8 @@ Do not add public raw media, identifying filenames, EXIF, secret URLs or persona
 - Intake update: 13 JPEG files pulled from main at `626613b`; all 13 pass Pillow file verification. One image visually inspected; full visual, privacy and metadata review pending. No final promo selection approved. These are part of the user's explicitly authorized 99-photo repository exception.
 - No authentic photos, prior graphics or finished audio/video were supplied or inspected this session. Historical rows remain unverified references.
 - Producer briefing: `logs/PRODUCER_BRIEFING.md`; session-authored planning text, PROPOSED creative recommendations, reviewed for sensitive content; no private media included.
+
+## 2026-11-15 handoff inventory
+- Portable agent kit: kickoff/setup Markdown, Cursor instruction adapter, project skill source and job/ChatGPT bridge templates. Session-authored non-sensitive text; no media/credentials included. Setup instructions are proposals, not installed/verified external integrations.
+- Higgsfield V4: newer repository production report says completed 41-second private export, provisional voices allowed for review. Actual export not retrieved or re-inspected in this handoff; final publication approval absent. Preserve reported provenance and verify on destination host.
+- Photo count: 81 local JPEGs. No new photo review or claim of all 99 completed during handoff.
